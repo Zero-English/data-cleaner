@@ -113,7 +113,7 @@ EXPECTED OUTPUT FORMAT:
 `
 
 const MODEL = "gemini-3.6-flash";
-const IMAGES_PER_BATCH = 5;
+const IMAGES_PER_BATCH = 3;
 const MAX_JSON_RETRIES = 0;
 const MAX_QUOTA_RETRIES = 5;
 const RETRY_MAX_WAIT_MS = 60 * 1000;
