@@ -40,33 +40,26 @@ difficultyLevels:
 EXTRACTION RULES:
 
 1. Extract ALL complete questions that are clearly visible across ALL of the provided images. Aim to extract as many questions as possible; err on the side of including grammatically-solvable questions.
-2. Preserve the original meaning and wording of each question.
-3. Correct obvious OCR errors when the intended English text is unambiguous.
-4. Do NOT invent, complete, or reconstruct text that is not reasonably readable.
-5. Do NOT create questions from headings, instructions, examples, explanations, or answer keys unless they are clearly presented as quiz questions.
-6. If a question has multiple-choice options, extract every visible option.
-7. Preserve the order of the options as they appear in the image.
-8. The "answer" field must contain the correct option text, not the option number or letter.
-9. Determine the correct answer by applying standard English grammar rules (e.g., right form of verb, transformation, parts of speech, sentence types). If no answer key is present in the image, still provide the answer when you are confident it follows from the question itself. Exclude a question only if the correct answer is genuinely ambiguous or the text is unreadable.
-10. If fewer than 2 options are visible, supply plausible, distinct options derived from the grammar concept being tested. Construct options only when you are confident they are reasonable; if options truly cannot be constructed, exclude the question.
-11. If the question is incomplete or unreadable, exclude it.
-12. Do not duplicate the same question.
-13. Keep punctuation where it is meaningful.
-14. Remove unnecessary numbering such as "1.", "2.", "(a)", etc. from questionText unless it is part of the actual question.
-15. Every question must have:
+2. Correct obvious OCR errors when the intended English text is unambiguous.
+3. Do NOT create questions from headings, instructions, examples, explanations, or answer keys unless they are clearly presented as quiz questions.
+4. If a question has multiple-choice options, extract every visible option.
+5. The "answer" field must contain the correct option text, not the option number or letter.
+6. Determine the correct answer by applying standard English grammar rules (e.g., right form of verb, transformation, parts of speech, sentence types). If no answer key is present in the image, still provide the answer when you are confident it follows from the question itself. Exclude a question only if the correct answer is genuinely ambiguous or the text is unreadable.
+7. If fewer than 2 options are visible, supply plausible, distinct options derived from the grammar concept being tested. Construct options only when you are confident they are reasonable; if options truly cannot be constructed, exclude the question.
+8. If the question is incomplete or unreadable, exclude it.
+8. Do not duplicate the same question.
+9. Keep punctuation where it is meaningful.
+10. Remove unnecessary numbering such as "1.", "2.", "(a)", etc. from questionText unless it is part of the actual question.
+11. Every question must have:
     class: ["Class6"]
-16. Do not infer a different class from the image. Always use ["Class6"].
-17. quizType must be one of the values from quizTypes. Never invent a new quizType.
-18. difficultyLevel must be exactly one of:
+12. Do not infer a different class from the image. Always use ["Class6"].
+13. quizType must be one of the values from quizTypes. Never invent a new quizType.
+14. difficultyLevel must be exactly one of:
     "EASY", "MEDIUM", "HARD"
-19. Choose difficulty based on the reasoning/grammar complexity of the question:
-    - EASY: direct recall or simple identification
-    - MEDIUM: requires some grammatical understanding or transformation
-    - HARD: requires multiple grammatical concepts, nuanced reasoning, or more complex transformation
-20. If the image contains an answer key, use it to determine the answer when it clearly corresponds to the question.
-21. If no answer key is available, determine the answer from the question itself using the grammar rules above. Be confident, but do not guess randomly.
-22. Never use information from outside the provided image to invent missing question content.
-23. Prefer extraction over exclusion: only drop a question when it is broken beyond reasonable repair.
+15. If the image contains an answer key, use it to determine the answer when it clearly corresponds to the question.
+16. If no answer key is available, determine the answer from the question itself using the grammar rules above. Be confident, but do not guess randomly.
+17. Never use information from outside the provided image to invent missing question content.
+18. Prefer extraction over exclusion: only drop a question when it is broken beyond reasonable repair.
 
 QUESTION TYPE:
 Assign the most appropriate quizType from the provided quizTypes list based on the actual question.
@@ -121,7 +114,7 @@ EXPECTED OUTPUT FORMAT:
 
 const MODEL = "gemini-3.6-flash";
 const IMAGES_PER_BATCH = 5;
-const MAX_JSON_RETRIES = 2;
+const MAX_JSON_RETRIES = 0;
 const MAX_QUOTA_RETRIES = 5;
 const RETRY_MAX_WAIT_MS = 60 * 1000;
 
@@ -198,7 +191,7 @@ async function generateJson(ai, contents) {
       contents: attempt === 0
         ? contents
         : [...contents, { text: RETRY_NUDGE }],
-      config: { responseMimeType: "application/json", maxOutputTokens: 8192 },
+      config: { responseMimeType: "application/json"},
     });
     try {
       return JSON.parse(cleanJsonText(response.text));
