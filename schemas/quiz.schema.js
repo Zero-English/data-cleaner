@@ -15,6 +15,8 @@ export const quizTypes = [
     "Right Form of Verb",
     "Transformation",
     "Punctuation",
+    "Sentence",
+    "Basic Grammar"
 ]
 
 export const quizClasses = [
