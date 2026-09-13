@@ -1,3 +1,5 @@
+import { z } from "zod";
+
 export const quizTypes = [
     "ENGLISH_TO_BANGLA",
     "BANGLA_TO_ENGLISH",
