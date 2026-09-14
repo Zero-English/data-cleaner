@@ -12,7 +12,7 @@ ROLE:
 You are a highly accurate educational data extraction agent.
 
 INPUT: 
-You will receive one or more images containing questions from a Class 6 English Guide Book.
+You will receive one or more images containing questions from a Diploma English Guide Book.
 
 OBJECTIVE:
 Extract every valid quiz question visible in ANY of the provided images and return the results as a single JSON array.
@@ -51,8 +51,8 @@ EXTRACTION RULES:
 9. Keep punctuation where it is meaningful.
 10. Remove unnecessary numbering such as "1.", "2.", "(a)", etc. from questionText unless it is part of the actual question.
 11. Every question must have:
-    class: ["Class6"]
-12. Do not infer a different class from the image. Always use ["Class6"].
+    class: ["Diploma"]
+12. Do not infer a different class from the image. Always use ["Diploma"].
 13. quizType must be one of the values from quizTypes. Never invent a new quizType.
 14. difficultyLevel must be exactly one of:
     "EASY", "MEDIUM", "HARD"
@@ -72,7 +72,7 @@ VALIDATION SCHEMA:
   "options": ["<option 1>", "<option 2>", "..."],
   "difficultyLevel": "<EASY | MEDIUM | HARD>",
   "answer": "<exact correct option text>",
-  "class": ["Class6"]
+  "class": ["Diploma"]
 }
 
 FINAL CHECK BEFORE OUTPUT:
@@ -81,7 +81,7 @@ FINAL CHECK BEFORE OUTPUT:
 - Does every object contain exactly the required fields?
 - Is every quizType allowed?
 - Is every difficultyLevel uppercase and allowed?
-- Is class exactly ["Class6"]?
+- Is class exactly ["Diploma"]?
 - Does every question have at least 2 options?
 - Is every answer one of the provided options?
 - Did you avoid inventing unreadable information?
@@ -94,22 +94,214 @@ EXPECTED OUTPUT FORMAT:
   "options": ["Adjective", "Adverb", "Verb", "Preposition"],
   "difficultyLevel": "MEDIUM",
   "answer": "Adverb",
-  "class": ["Class6"]
+  "class": ["Diploma"]
 }, {
   "quizType": "Transformation",
   "questionText": "\"It is very useful.\" what is the Negative form of the sentence?",
   "options": ["It is not very useful.", "It is not useful.", "It is useless.", "It isn't useless at all."],
   "difficultyLevel": "EASY",
   "answer": "It isn't useless at all.",
-  "class": ["Class6"]
+  "class": ["Diploma"]
 }, {
   "quizType": "Sentence",
   "questionText": "\"May Allah bless you.\" what type of sentence is this?",
   "options": ["Optative", "Imperative", "Exclamatory", "Assertive"],
   "difficultyLevel": "HARD",
   "answer": "Optative",
-  "class": ["Class6"]
-}]
+  "class": ["Diploma"]
+}, {
+    "quizType": "Preposition",
+    "questionText": "The man is addicted _____ New Market.",
+    "options": ["to", "into", "at", "for"],
+    "difficultyLevel": "EASY",
+    "answer": "to",
+    "class": ["Diploma"]
+},
+  {
+    "quizType": "Preposition",
+    "questionText": "I was admitted _____ the room.",
+    "options": ["to", "into", "in", "with"],
+    "difficultyLevel": "MEDIUM",
+    "answer": "into",
+    "class": ["Diploma"]
+},
+  {
+    "quizType": "Preposition",
+    "questionText": "Karim aimed his gun _____ the dove.",
+    "options": ["at", "to", "on", "against"],
+    "difficultyLevel": "EASY",
+    "answer": "at",
+    "class": ["Diploma"]
+},
+  {
+    "quizType": "Preposition",
+    "questionText": "He is angry _____ me for speaking against him.",
+    "options": ["with", "at", "to", "for"],
+    "difficultyLevel": "EASY",
+    "answer": "with",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Preposition",
+    "questionText": "The train has arrived _____ the station in time.",
+    "options": ["at", "in", "to", "on"],
+    "difficultyLevel": "EASY",
+    "answer": "at",
+    "class": ["Diploma"]
+  }, {
+    "quizType": "Sentence Pattern",
+    "questionText": "What is the structural pattern of the sentence \"She looks nice\"?",
+    "options": [
+      "Sub (NP) + Vi",
+      "Sub (NP) + Be-verb + Obj (NP)",
+      "Sub (NP) + LV + Adj",
+      "Sub (NP) + Be-verb + Adj"
+    ],
+    "difficultyLevel": "MEDIUM",
+    "answer": "Sub (NP) + LV + Adj",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Parts of Speech",
+    "questionText": "\"The pen is blue.\" Which part of speech is \"blue\"?",
+    "options": [
+      "Noun",
+      "Adjective",
+      "Verb",
+      "Adverb"
+    ],
+    "difficultyLevel": "EASY",
+    "answer": "Adjective",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Sentence Structure",
+    "questionText": "In the sentence \"Birds fly.\", what type of verb is \"fly\"?",
+    "options": [
+      "Transitive Verb",
+      "Intransitive Verb",
+      "Linking Verb",
+      "Auxiliary Verb"
+    ],
+    "difficultyLevel": "HARD",
+    "answer": "Intransitive Verb",
+    "class": ["Diploma"]
+  }, {
+    "quizType": "Sentence Structure",
+    "questionText": "Which sentence follows the pattern \"Sub (NP) + Vi\"?",
+    "options": [
+      "The sun rises.",
+      "We are students.",
+      "She is beautiful.",
+      "It seems easy."
+    ],
+    "difficultyLevel": "EASY",
+    "answer": "The sun rises.",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Sentence Structure",
+    "questionText": "Which sentence follows the pattern \"Sub (NP) + Be-verb + Obj (NP)\"?",
+    "options": [
+      "They cry.",
+      "They are players.",
+      "She is kind.",
+      "He went mad."
+    ],
+    "difficultyLevel": "MEDIUM",
+    "answer": "They are players.",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Sentence Structure",
+    "questionText": "Which sentence follows the pattern \"Sub (NP) + LV + Adj\"?",
+    "options": [
+      "He sleeps.",
+      "He is a doctor.",
+      "I am afraid.",
+      "It seems easy."
+    ],
+    "difficultyLevel": "HARD",
+    "answer": "It seems easy.",
+    "class": ["Diploma"]
+}, {
+    "quizType": "Sentence Pattern",
+    "questionText": "What is the sentence pattern of \"She went to the MD herself\"?",
+    "options": [
+      "Sub (NP) + Transitive verb + Obj (NP)",
+      "Sub (NP) + Tr.v + obj(NP) + Obj(Adj)",
+      "Sub (NP) + Tr.v + obj(NP) + obj (Pronoun)",
+      "Sub (NP) + LV + Adj"
+    ],
+    "difficultyLevel": "MEDIUM",
+    "answer": "Sub (NP) + Tr.v + obj(NP) + obj (Pronoun)",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Idioms and Phrases",
+    "questionText": "What is the meaning of the idiom \"A black sheep\"?",
+    "options": [
+      "An unexpected danger",
+      "A disreputable or unworthy person",
+      "A person who works hard",
+      "A rich person"
+    ],
+    "difficultyLevel": "EASY",
+    "answer": "A disreputable or unworthy person",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Idioms and Phrases",
+    "questionText": "Complete the sentence: \"Don't roam about _____.\"",
+    "options": [
+      "to and fro",
+      "at large",
+      "up and down",
+      "by and by"
+    ],
+    "difficultyLevel": "EASY",
+    "answer": "to and fro",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Idioms and Phrases",
+    "questionText": "Which idiom best completes the sentence: \"He fought _____ against his poverty.\"",
+    "options": [
+      "step by step",
+      "tooth and nail",
+      "at a loss",
+      "well and good"
+    ],
+    "difficultyLevel": "MEDIUM",
+    "answer": "tooth and nail",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Sentence Structure",
+    "questionText": "Which sentence follows the pattern \"Sub (NP) + Tr.v + obj(NP) + Obj(Adj)\"?",
+    "options": [
+      "He eats rice.",
+      "I saw the king himself.",
+      "They torn the letter open.",
+      "He met the teacher himself."
+    ],
+    "difficultyLevel": "HARD",
+    "answer": "They torn the letter open.",
+    "class": ["Diploma"]
+  },
+  {
+    "quizType": "Idioms and Phrases",
+    "questionText": "Which sentence correctly demonstrates the usage of \"At daggers drawn\"?",
+    "options": [
+      "The president and the secretary of the club are at daggers drawn.",
+      "He was taken to task for negligence of duty.",
+      "Human life is full of weal and woe.",
+      "He is a victim of circumstances."
+    ],
+    "difficultyLevel": "HARD",
+    "answer": "The president and the secretary of the club are at daggers drawn.",
+    "class": ["Diploma"]
+  }]
 `
 
 const MODEL = "gemini-3.6-flash";
