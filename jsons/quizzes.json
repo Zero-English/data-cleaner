@@ -1,0 +1,177 @@
+[
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Public has no access _____ the president's house.",
+        "options": ["to", "into", "for", "with"],
+        "difficultyLevel": "EASY",
+        "answer": "to",
+        "explanation": "\"Access to\" is the correct collocation meaning the right or opportunity to enter or approach a place (প্রবেশাধিকার বা অ্যাক্সেস)। <br>\"Into\" implies moving to the inside of a place and does not follow 'access'; <br>\"For\" indicates purpose or benefit, which does not fit here; <br>\"With\" indicates association or possession, which is not appropriate after 'access'."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Rumi is absorbed _____ his study.",
+        "options": ["in", "at", "on", "with"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "in",
+        "explanation": "\"Absorbed in\" means completely engrossed or deeply engaged in something (গভীরভাবে মনোনিবেশ করা), তাই \"in\" সঠিক। <br>\"At\" is not used after 'absorbed' to express engagement; <br>\"On\" usually follows verbs like 'depend' or 'rely', not 'absorbed'; <br>\"With\" is used for something that fills or occupies, not for mental concentration."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Everyone should abstain _____ bad company.",
+        "options": ["from", "to", "with", "for"],
+        "difficultyLevel": "EASY",
+        "answer": "from",
+        "explanation": "\"Abstain from\" is the correct collocation meaning to keep away from something or refrain from doing it (বর্জন করা বা বিরত থাকা)। <br>\"To\" does not collocate with 'abstain'; <br>\"With\" means accompanying someone, which changes the meaning; <br>\"For\" expresses purpose or reason, which is not suitable here."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "He has been absent _____ the school for a long time.",
+        "options": ["from", "to", "in", "at"],
+        "difficultyLevel": "EASY",
+        "answer": "from",
+        "explanation": "\"Absent from\" means not present at a place (অনুপস্থিত থাকা), তাই স্কুল থেকে অনুপস্থিত বোঝাতে \"from\" সঠিক। <br>\"To\" is not used with 'absent'; <br>\"In\" and \"at\" do not collocate with 'absent' in standard English."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "The forest abounds _____ wild animals.",
+        "options": ["with", "in", "by", "for"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "with",
+        "explanation": "\"Abound with\" means to be filled with or to contain a great number of something (কোনো কিছুতে ভরপুর থাকা)। তাই বনটি বন্যপ্রাণীতে ভরপুর বোঝাতে \"with\" সঠিক। <br>\"In\" is used when the subject is the place where something exists plentifully, not the container being filled; <br>\"By\" indicates an agent (doer); <br>\"For\" expresses purpose, which is meaningless here."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "The Hilsha abounds _____ the Padma.",
+        "options": ["in", "with", "at", "on"],
+        "difficultyLevel": "EASY",
+        "answer": "in",
+        "explanation": "\"Abound in\" means to be present in large numbers in a particular place (কোনো স্থানে প্রচুর পরিমাণে বিদ্যমান থাকা)। এখানে পদ্মা নদীতে ইলিশের প্রাচুর্য বোঝানো হয়েছে, তাই \"in\" সঠিক। <br>\"With\" is used when the subject itself is treated as being full of something; <br>\"At\" indicates a specific point or location; <br>\"On\" indicates a surface."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "We should abide _____ the rules of the country.",
+        "options": ["by", "with", "in", "to"],
+        "difficultyLevel": "EASY",
+        "answer": "by",
+        "explanation": "\"Abide by\" means to obey or follow rules, decisions, or laws (মেনে চলা বা মান্য করা), তাই দেশের নিয়ম মেনে চলা বোঝাতে \"by\" সঠিক। <br>\"With\" and \"in\" do not form any such phrase with 'abide'; <br>\"To\" is not used with 'abide' in this sense."
+    },
+    {
+        "quizType": "Transformation",
+        "questionText": "Change the voice: \"Honey tastes sweet.\"",
+        "options": [
+            "Honey is sweet when it is tasted.",
+            "Honey is tasted sweet.",
+            "Honey was sweet when tasted.",
+            "Sweet is tasted by honey."
+        ],
+        "difficultyLevel": "HARD",
+        "answer": "Honey is sweet when it is tasted.",
+        "explanation": "'Taste' এখানে linking (sensory) verb, transitive verb নয়, তাই একে সরাসরি passive করা যায় না। অর্থ বজায় রেখে সঠিক passive রূপ হলো \"Honey is sweet when it is tasted\" (মধু মিষ্টি হয় যখন এটি স্বাদ নেওয়া হয়)। <br>\"Honey is tasted sweet\" ভুল, কারণ এটি 'taste'-কে transitive verb ধরে অপ্রাকৃতিক passive তৈরি করেছে; <br>\"Honey was sweet when tasted\" ভুল, কারণ tense পরিবর্তিত হয়ে past হয়েছে; <br>\"Sweet is tasted by honey\" subject ও object উল্টে দিয়ে অর্থহীন বাক্য তৈরি করেছে।"
+    },
+    {
+        "quizType": "Transformation",
+        "questionText": "Change the voice: \"Take care of your health.\"",
+        "options": [
+            "Let your health be taken care of.",
+            "Your health should take care of.",
+            "Take care of health by you.",
+            "Let health be care of."
+        ],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Let your health be taken care of.",
+        "explanation": "এটি imperative voice এবং 'take care of' একটি prepositional verb, যার passive রূপ হলো \"Let your health be taken care of\" (আপনার স্বাস্থ্যের যত্ন নেওয়া হোক)। <br>\"Your health should take care of\" ভুল, কারণ এটি 'your health'-কে কর্তা বানিয়ে অর্থ উল্টে দিয়েছে; <br>\"Take care of health by you\" কোনো passive construction নয়; <br>\"Let health be care of\" 'taken' ও 'your' বাদ দিয়ে ব্যাকরণগতভাবে অসম্পূর্ণ।"
+    },
+    {
+        "quizType": "Transformation",
+        "questionText": "Change the voice: \"She has played football.\"",
+        "options": [
+            "Football has been played by her.",
+            "Football was played by her.",
+            "Football is played by her.",
+            "Football had been played by her."
+        ],
+        "difficultyLevel": "EASY",
+        "answer": "Football has been played by her.",
+        "explanation": "Active বাক্যটি present perfect tense-এ। Present perfect passive গঠিত হয় has/have + been + past participle দিয়ে, তাই \"Football has been played by her\" সঠিক। <br>\"Football was played by her\" past simple tense, যা tense পরিবর্তন করে; <br>\"Football is played by her\" present simple tense; <br>\"Football had been played by her\" past perfect tense, যা এখানে প্রযোজ্য নয়।"
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"Sazia is a lovely girl.\"",
+        "options": ["Sazia", "lovely", "girl", "is"],
+        "difficultyLevel": "EASY",
+        "answer": "lovely",
+        "explanation": "\"Lovely\" is an adjective that describes the noun \"girl\" (সুন্দর/মনোরম), তাই এটিই সঠিক। <br>\"Sazia\" is a proper noun; <br>\"girl\" is a common noun; <br>\"is\" is a linking verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"He is a great man.\"",
+        "options": ["He", "great", "man", "is"],
+        "difficultyLevel": "EASY",
+        "answer": "great",
+        "explanation": "\"Great\" is an adjective that describes the noun \"man\" (মহান), তাই এটিই সঠিক। <br>\"He\" is a pronoun; <br>\"man\" is a noun; <br>\"is\" is a linking verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"Mr Ali is an honest man.\"",
+        "options": ["Mr Ali", "honest", "man", "is"],
+        "difficultyLevel": "EASY",
+        "answer": "honest",
+        "explanation": "\"Honest\" is an adjective that describes the noun \"man\" (সৎ), তাই এটিই সঠিক। <br>\"Mr Ali\" is a proper noun; <br>\"man\" is a noun; <br>\"is\" is a linking verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"He was very friendly towards me.\"",
+        "options": ["He", "very", "friendly", "towards"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "friendly",
+        "explanation": "\"Friendly\" is a predicate adjective that follows the linking verb \"was\" and describes the subject \"He\" (বন্ধুত্বপূর্ণ), তাই এটিই সঠিক। <br>\"He\" is a pronoun; <br>\"very\" is an adverb of degree modifying the adjective \"friendly\"; <br>\"towards\" is a preposition."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"Akbor was a powerful emperor.\"",
+        "options": ["Akbor", "powerful", "emperor", "was"],
+        "difficultyLevel": "EASY",
+        "answer": "powerful",
+        "explanation": "\"Powerful\" is an adjective that describes the noun \"emperor\" (পরাক্রমশালী), তাই এটিই সঠিক। <br>\"Akbor\" is a proper noun; <br>\"emperor\" is a noun; <br>\"was\" is a linking verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"She has bought a new dress.\"",
+        "options": ["She", "bought", "new", "dress"],
+        "difficultyLevel": "EASY",
+        "answer": "new",
+        "explanation": "\"New\" is an adjective that describes the noun \"dress\" (নতুন), তাই এটিই সঠিক। <br>\"She\" is a pronoun; <br>\"bought\" is a verb; <br>\"dress\" is a noun."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"Kamal is an intelligent boy.\"",
+        "options": ["Kamal", "intelligent", "boy", "is"],
+        "difficultyLevel": "EASY",
+        "answer": "intelligent",
+        "explanation": "\"Intelligent\" is an adjective that describes the noun \"boy\" (বুদ্ধিমান), তাই এটিই সঠিক। <br>\"Kamal\" is a proper noun; <br>\"boy\" is a common noun; <br>\"is\" is a linking verb."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Fill in the blank with a suitable verb: \"The boys ___ in the class.\"",
+        "options": ["are", "is", "am", "was"],
+        "difficultyLevel": "EASY",
+        "answer": "are",
+        "explanation": "Subject \"boys\" plural, তাই present tense-এ plural verb \"are\" বসানো সঠিক (ছেলেরা ক্লাসে আছে)। <br>\"Is\" singular subject-এর সাথে বসে; <br>\"Am\" শুধু subject 'I' এর সাথে বসে; <br>\"Was\" past tense, যা এ বাক্যের present-tense প্রেক্ষাপটে খাপ খায় না।"
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Fill in the blank with a suitable verb: \"She ___ sick.\"",
+        "options": ["is", "are", "am", "were"],
+        "difficultyLevel": "EASY",
+        "answer": "is",
+        "explanation": "Subject \"She\" third person singular, তাই present tense-এ \"is\" বসানো সঠিক (সে অসুস্থ)। <br>\"Are\" plural subject বা 'you' এর সাথে বসে; <br>\"Am\" শুধু subject 'I' এর সাথে বসে; <br>\"Were\" past tense-এর plural রূপ।"
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Fill in the blank with a suitable verb: \"I ___ a letter.\"",
+        "options": ["write", "writes", "written", "writing"],
+        "difficultyLevel": "EASY",
+        "answer": "write",
+        "explanation": "Subject \"I\" এর সাথে present simple tense-এ verb-এর base form \"write\" বসে (আমি একটি চিঠি লিখি), তাই এটি সঠিক। <br>\"Writes\" third person singular subject-এর সাথে বসে; <br>\"Written\" past participle, যার সাথে auxiliary verb প্রয়োজন; <br>\"Writing\" present participle, যার সাথে auxiliary verb (যেমন am) প্রয়োজন।"
+    }
+]

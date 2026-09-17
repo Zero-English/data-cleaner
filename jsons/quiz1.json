@@ -6,7 +6,7 @@
         "difficultyLevel": "EASY",
         "answer": "very",
         "class": ["Diploma"],
-        "explanation": "In this sentence, \"very\" is an adverb of degree that modifies the adjective \"kind\" to indicate how kind the man is."
+        "explanation": "\"Very\" is correct because it is an adverb of degree that modifies the adjective \"kind\" by telling us the extent of the man's kindness. <br>\"Is\" is incorrect because it is a linking verb that connects the subject to its description, not an adverb; <br>\"Kind\" is incorrect because it is an adjective describing the noun \"man\", while the adverb we need must modify a verb, adjective, or another adverb; <br>\"Man\" is incorrect because it is a noun naming the person, and it cannot serve as an adverb."
     },
     {
         "quizType": "Parts of Speech",
@@ -15,7 +15,7 @@
         "difficultyLevel": "EASY",
         "answer": "fast",
         "class": ["Diploma"],
-        "explanation": "\"Fast\" is an adverb of manner here because it describes how the horse runs, modifying the action verb \"run\"."
+        "explanation": "\"Fast\" is correct because it is an adverb of manner that describes how the horse runs by modifying the verb \"run\". <br>\"Horse\" is incorrect because it is a noun naming the animal that performs the action, not a word that modifies the verb; <br>\"Can\" is incorrect because it is a modal auxiliary verb that expresses ability, not an adverb; <br>\"Run\" is incorrect because it is the main verb of the sentence, and an adverb modifies a verb rather than being the verb itself."
     },
     {
         "quizType": "Parts of Speech",
@@ -24,7 +24,7 @@
         "difficultyLevel": "EASY",
         "answer": "quickly",
         "class": ["Diploma"],
-        "explanation": "The word \"quickly\" tells us the manner in which the man walks, modifying the verb \"walks\" as an adverb."
+        "explanation": "\"Quickly\" is correct because it is an adverb of manner that tells us how the man walks by modifying the verb \"walks\". <br>\"Man\" is incorrect because it is a noun naming the person who performs the action, not a word that modifies a verb; <br>\"Walks\" is incorrect because it is the action verb of the sentence, and an adverb modifies a verb rather than acting as a verb; <br>\"The\" is incorrect because it is an article (a determiner) that points out the noun \"man\", not an adverb."
     },
     {
         "quizType": "Parts of Speech",
@@ -33,7 +33,7 @@
         "difficultyLevel": "EASY",
         "answer": "very",
         "class": ["Diploma"],
-        "explanation": "\"Very\" functions as an adverb of degree modifying the predicate adjective \"happy\" to emphasize the degree of happiness."
+        "explanation": "\"Very\" is correct because it is an adverb of degree that modifies the predicate adjective \"happy\" by showing the intensity of his happiness. <br>\"He\" is incorrect because it is a personal pronoun used in place of a noun, not a word that modifies an adjective; <br>\"Is\" is incorrect because it is a linking verb connecting the subject to its description, not an adverb; <br>\"Happy\" is incorrect because it is an adjective describing the subject, while an adverb must modify a verb, adjective, or another adverb."
     },
     {
         "quizType": "Fill in the blanks",
@@ -42,7 +42,7 @@
         "difficultyLevel": "EASY",
         "answer": "because",
         "class": ["Diploma"],
-        "explanation": "The conjunction \"because\" is used to introduce the reason or cause behind his absence from class."
+        "explanation": "\"Because\" is correct because it introduces the reason or cause for his absence from class. <br>\"And\" is incorrect because it joins equal elements rather than giving a reason; <br>\"But\" is incorrect because it shows contrast, not cause; <br>\"Or\" is incorrect because it presents alternatives, which does not fit here."
     },
     {
         "quizType": "Fill in the blanks",
@@ -51,7 +51,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "and",
         "class": ["Diploma"],
-        "explanation": "\"And\" connects an imperative clause expressing an instruction with the clause indicating its positive outcome."
+        "explanation": "\"And\" is correct because it links the instruction \"be attentive\" with the expected positive outcome \"you will succeed\", showing that success follows from attentiveness. <br>\"Or\" is incorrect because it introduces an alternative, implying a negative possibility instead of the intended positive result; <br>\"But\" is incorrect because it shows contrast between two ideas, whereas here the second clause is a result of the first; <br>\"Because\" is incorrect because it introduces a reason or cause, but the second clause is the outcome of the instruction, not its cause."
     },
     {
         "quizType": "Fill in the blanks",
@@ -60,7 +60,7 @@
         "difficultyLevel": "EASY",
         "answer": "but",
         "class": ["Diploma"],
-        "explanation": "The coordinating conjunction \"but\" is used to show a contrast between Anwar being weak and Karim being healthy."
+        "explanation": "\"But\" is correct because it joins two contrasting ideas: Anwar's physical weakness is set against Karim's health. <br>\"And\" is incorrect because it joins similar or additional ideas rather than showing a contrast; <br>\"Or\" is incorrect because it presents a choice between alternatives, which does not fit a statement of contrast; <br>\"So\" is incorrect because it introduces a result or consequence, but the second clause does not follow as a result of the first."
     },
     {
         "quizType": "Fill in the blanks",
@@ -69,7 +69,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "or",
         "class": ["Diploma"],
-        "explanation": "\"Or\" functions as a conjunction introducing an alternative consequence or warning if the command is not followed."
+        "explanation": "\"Or\" is correct because it introduces an alternative consequence and serves as a warning that if you do not take care, you will fall. <br>\"And\" is incorrect because it would suggest that taking care and falling happen together, which destroys the warning sense; <br>\"But\" is incorrect because it shows contrast, while the second clause is a consequence of not following the command; <br>\"So\" is incorrect because it introduces a positive result, whereas falling is the negative alternative to taking care."
     },
     {
         "quizType": "Fill in the blanks",
@@ -78,7 +78,7 @@
         "difficultyLevel": "EASY",
         "answer": "and",
         "class": ["Diploma"],
-        "explanation": "\"And\" is used to link two subjects (\"Tamim\" and \"I\") to form a compound subject."
+        "explanation": "\"And\" is correct because it joins the two subjects \"Tamim\" and \"I\" to form a compound subject that goes to school together. <br>\"But\" is incorrect because it shows contrast between two ideas, whereas here both people act together; <br>\"Or\" is incorrect because it offers a choice between one person or the other, but the sentence says both go together; <br>\"So\" is incorrect because it introduces a result, and there is no cause-and-effect relationship between Tamim and the speaker."
     },
     {
         "quizType": "Fill in the blanks",
@@ -87,7 +87,7 @@
         "difficultyLevel": "EASY",
         "answer": "but",
         "class": ["Diploma"],
-        "explanation": "\"But\" is the correct conjunction because it highlights the contrast between Amit's height and his sister's height."
+        "explanation": "\"But\" is correct because it highlights the contrast between Amit's height and his sister's shortness. <br>\"And\" is incorrect because it adds similar or additional information instead of showing the contrast between being tall and being short; <br>\"Or\" is incorrect because it presents a choice between alternatives, which does not fit a factual comparison; <br>\"So\" is incorrect because it would introduce a result, but his sister's being short is not a result of Amit's being tall."
     },
     {
         "quizType": "Fill in the blanks",
@@ -96,7 +96,7 @@
         "difficultyLevel": "EASY",
         "answer": "if",
         "class": ["Diploma"],
-        "explanation": "\"If\" is used as a conjunction introducing an indirect question to express uncertainty about whether an event will occur."
+        "explanation": "\"If\" is correct because it introduces an indirect question and expresses uncertainty about whether she will come. <br>\"And\" is incorrect because it joins equal elements rather than introducing a question about a possibility; <br>\"But\" is incorrect because it shows contrast, but there is no contrast between not knowing and her coming; <br>\"Or\" is incorrect because it would present an alternative, whereas here we are expressing doubt about a single possibility."
     },
     {
         "quizType": "Fill in the blanks",
@@ -105,7 +105,7 @@
         "difficultyLevel": "EASY",
         "answer": "or",
         "class": ["Diploma"],
-        "explanation": "\"Or\" connects two alternative possibilities (\"true\" or \"false\") in a question."
+        "explanation": "\"Or\" is correct because it connects two alternative possibilities, \"true\" and \"false\", in a question asking the listener to choose between them. <br>\"And\" is incorrect because it would suggest the news is both true and false at the same time, which is impossible; <br>\"But\" is incorrect because it shows contrast rather than presenting a choice between two alternatives; <br>\"If\" is incorrect because it introduces a condition, while here the sentence simply offers mutually exclusive options."
     },
     {
         "quizType": "Fill in the blanks",
@@ -114,7 +114,7 @@
         "difficultyLevel": "EASY",
         "answer": "but",
         "class": ["Diploma"],
-        "explanation": "\"But\" is used to express opposition or contrast between two different emotional states: being sad yet hopeful."
+        "explanation": "\"But\" is correct because it contrasts two opposing emotional states, showing that they are sad yet hopeful at the same time. <br>\"And\" is incorrect because it would simply add two equal ideas without acknowledging the conflict between sadness and hope; <br>\"Or\" is incorrect because it offers a choice between being sad or being hopeful, whereas the sentence describes both together; <br>\"If\" is incorrect because it introduces a condition, but no condition is being expressed here."
     },
     {
         "quizType": "Fill in the blanks",
@@ -123,7 +123,7 @@
         "difficultyLevel": "EASY",
         "answer": "and",
         "class": ["Diploma"],
-        "explanation": "\"And\" joins the two proper nouns (\"Sabina\" and \"Samira\") together to complete the plural subject."
+        "explanation": "\"And\" is correct because it joins the two proper nouns \"Sabina\" and \"Samira\" to form the plural subject referring to two friends. <br>\"But\" is incorrect because it shows contrast, while the two girls are being grouped together, not opposed; <br>\"Or\" is incorrect because it suggests either Sabina or Samira, but the sentence refers to both of them; <br>\"So\" is incorrect because it introduces a result, and no cause-and-effect relationship exists between the two names."
     },
     {
         "quizType": "Parts of Speech",
@@ -132,7 +132,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "\"Honesty\" is an abstract noun representing a quality or virtue, and it serves as the subject of the sentence."
+        "explanation": "\"Noun\" is correct because \"Honesty\" is an abstract noun naming a quality or virtue, and it serves as the subject of the sentence. <br>\"Adjective\" is incorrect because an adjective describes or qualifies a noun, but \"Honesty\" is itself the thing being talked about; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, while \"Honesty\" does no such modifying; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"Honesty\" names a concept and serves as the subject of the linking verb \"is\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -141,7 +141,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adverb",
         "class": ["Diploma"],
-        "explanation": "\"Slowly\" is an adverb of manner because it describes how the action of the verb \"walks\" is carried out."
+        "explanation": "\"Adverb\" is correct because \"slowly\" is an adverb of manner that describes how the action of \"walks\" is carried out. <br>\"Adjective\" is incorrect because an adjective modifies a noun or pronoun, while \"slowly\" modifies the verb \"walks\"; <br>\"Verb\" is incorrect because a verb expresses the action, whereas \"slowly\" only tells us how the action is done; <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"slowly\" describes the manner of walking."
     },
     {
         "quizType": "Parts of Speech",
@@ -150,7 +150,7 @@
         "difficultyLevel": "EASY",
         "answer": "Preposition",
         "class": ["Diploma"],
-        "explanation": "\"With\" is a preposition showing the instrument or tool used to perform the action of writing."
+        "explanation": "\"Preposition\" is correct because \"with\" shows the instrument or tool used to perform the action of writing, linking the verb \"write\" to \"pens\". <br>\"Conjunction\" is incorrect because a conjunction joins words or clauses, while \"with\" connects a noun to show the means of the action; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"with\" does not modify anything; <br>\"Verb\" is incorrect because a verb expresses action, whereas \"with\" is a word that introduces the tool (\u201cpens\u201d) used in writing."
     },
     {
         "quizType": "Parts of Speech",
@@ -159,7 +159,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "\"Three\" is a numeral adjective specifying the quantity of the noun \"pens\"."
+        "explanation": "\"Adjective\" is correct because \"three\" is a numeral adjective that specifies the quantity of the noun \"pens\". <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"three\" only tells us how many pens there are; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"three\" modifies the noun \"pens\"; <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, whereas \"three\" describes the noun \"pens\" rather than standing in for it."
     },
     {
         "quizType": "Parts of Speech",
@@ -168,7 +168,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "\"Iron\" is a material noun naming a physical substance, acting as the subject of the sentence."
+        "explanation": "\"Noun\" is correct because \"Iron\" is a material noun naming a physical substance and acting as the subject of the sentence. <br>\"Adjective\" is incorrect because an adjective qualifies a noun, but \"Iron\" is the thing being described by the adjective \"hard\"; <br>\"Verb\" is incorrect because a verb expresses action or state, while \"Iron\" names a substance that performs the linking verb \"is\"; <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, whereas \"Iron\" is the actual name of the substance, not a substitute for one."
     },
     {
         "quizType": "Parts of Speech",
@@ -177,7 +177,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "\"Useful\" is an adjective describing the quality of the noun \"animal\"."
+        "explanation": "\"Adjective\" is correct because \"useful\" describes the quality of the noun \"animal\". <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"useful\" tells us what kind of animal is being described; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"useful\" qualifies the noun \"animal\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"useful\" is a descriptive word placed before the noun it modifies."
     },
     {
         "quizType": "Parts of Speech",
@@ -186,7 +186,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "Adverb",
         "class": ["Diploma"],
-        "explanation": "The word \"very\" modifies the adjective \"poor\" by indicating the degree or intensity, making it an adverb of degree."
+        "explanation": "\"Adverb\" is correct because \"very\" modifies the adjective \"poor\" by indicating the degree or intensity of his poverty. <br>\"Adjective\" is incorrect because an adjective modifies a noun or pronoun, but \"very\" modifies the adjective \"poor\" rather than a noun; <br>\"Preposition\" is incorrect because a preposition connects a noun or pronoun to another word, while \"very\" simply intensifies the adjective \"poor\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"very\" performs no action and only strengthens the meaning of the adjective."
     },
     {
         "quizType": "Parts of Speech",
@@ -195,7 +195,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"big\" describes the size of the noun \"city\", so it functions as an adjective."
+        "explanation": "\"Adjective\" is correct because \"big\" describes the size of the noun \"city\". <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"big\" tells us what size the city is; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"big\" modifies the noun \"city\"; <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, whereas \"big\" describes the noun \"city\" instead of substituting for it."
     },
     {
         "quizType": "Parts of Speech",
@@ -204,7 +204,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"happy\" is a predicate adjective that follows the linking verb \"is\" and describes the subject pronoun \"He\"."
+        "explanation": "\"Adjective\" is correct because \"happy\" is a predicate adjective that follows the linking verb \"is\" and describes the subject pronoun \"He\". <br>\"Verb\" is incorrect because a verb expresses action or state, while \"happy\" is a descriptive word; the action is carried by \"is\"; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"happy\" describes the subject \"He\" rather than the verb; <br>\"Noun\" is incorrect because a noun names a person, place, or thing, whereas \"happy\" expresses a state of feeling and does not name anything."
     },
     {
         "quizType": "Parts of Speech",
@@ -213,7 +213,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"blue\" describes the color of the noun \"pencil\", qualifying it as an adjective."
+        "explanation": "\"Adjective\" is correct because \"blue\" describes the color of the noun \"pencil\". <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"blue\" tells us what color the pencil is; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"blue\" modifies the noun \"pencil\"; <br>\"Preposition\" is incorrect because a preposition shows the relationship between a noun or pronoun and another word, while \"blue\" simply describes the pencil's color."
     },
     {
         "quizType": "Parts of Speech",
@@ -222,7 +222,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "\"Milk\" is a material noun naming a substance and serves as the subject of the sentence."
+        "explanation": "\"Noun\" is correct because \"Milk\" is a material noun naming a substance and serving as the subject of the sentence. <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, but \"Milk\" is the actual name of the substance, not a substitute for it; <br>\"Adjective\" is incorrect because an adjective qualifies a noun, while \"Milk\" is the thing being described by the adjective \"white\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"Milk\" names the substance that performs the linking verb \"is\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -231,7 +231,7 @@
         "difficultyLevel": "EASY",
         "answer": "Preposition",
         "class": ["Diploma"],
-        "explanation": "The word \"of\" is a preposition connecting the adjective \"fond\" to its object \"milk\"."
+        "explanation": "\"Preposition\" is correct because \"of\" links the adjective \"fond\" to its object \"milk\", showing the relationship between the cat's fondness and milk. <br>\"Conjunction\" is incorrect because a conjunction joins words or clauses of equal rank, while \"of\" only connects \"fond\" to the noun \"milk\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"of\" shows the relationship between words and carries no action; <br>\"Adjective\" is incorrect because an adjective describes a noun, but \"of\" does not describe anything; it merely relates \"fond\" to \"milk\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -240,7 +240,7 @@
         "difficultyLevel": "EASY",
         "answer": "Verb",
         "class": ["Diploma"],
-        "explanation": "The word \"writes\" indicates an action performed by the subject \"Kajol\", functioning as the principal verb."
+        "explanation": "\"Verb\" is correct because \"writes\" shows the action performed by the subject \"Kajol\", functioning as the principal verb of the sentence. <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"writes\" expresses what Kajol does; <br>\"Adjective\" is incorrect because an adjective qualifies a noun, but \"writes\" expresses an action rather than a quality of a noun; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, while \"writes\" is itself the verb being talked about."
     },
     {
         "quizType": "Parts of Speech",
@@ -249,7 +249,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"revolutionary\" modifies the noun \"change\" by describing its nature, so it is an adjective."
+        "explanation": "\"Adjective\" is correct because \"revolutionary\" modifies the noun \"change\" by describing its nature. <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"revolutionary\" tells us what kind of change it is; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"revolutionary\" describes the noun \"change\" and carries no action; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"revolutionary\" qualifies the noun \"change\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -258,7 +258,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "Adverb",
         "class": ["Diploma"],
-        "explanation": "The word \"now\" is an adverb of time that modifies the verb phrase \"has become\" by indicating when the action occurred."
+        "explanation": "\"Adverb\" is correct because \"now\" is an adverb of time that modifies the verb phrase \"has become\" by indicating when the change happened. <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"now\" tells us the time of the action; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"now\" only gives the timing of \"has become\"; <br>\"Adjective\" is incorrect because an adjective modifies a noun or pronoun, but \"now\" modifies the verb phrase \"has become\", not a noun."
     },
     {
         "quizType": "Parts of Speech",
@@ -267,7 +267,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "Preceded by the article \"a\" and the adjective \"recent\", the word \"invention\" names a created object and functions as a noun."
+        "explanation": "\"Noun\" is correct because \"invention\" names a created object and is preceded by the article \"a\" and the adjective \"recent\". <br>\"Verb\" is incorrect because a verb expresses action or state, while \"invention\" names a thing rather than an action; <br>\"Adjective\" is incorrect because an adjective qualifies a noun, but \"invention\" is the noun being qualified by \"recent\"; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, whereas \"invention\" is a word that names an object."
     },
     {
         "quizType": "Parts of Speech",
@@ -276,7 +276,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "\"Ruler\" is a common noun denoting a person who governs, qualified by the adjective \"efficient\"."
+        "explanation": "\"Noun\" is correct because \"ruler\" is a common noun denoting a person who governs, and it is qualified by the adjective \"efficient\". <br>\"Adjective\" is incorrect because an adjective qualifies a noun, whereas \"ruler\" is the noun being described by \"efficient\"; <br>\"Verb\" is incorrect because a verb expresses action or state, while \"ruler\" names a person rather than an action; <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, but \"ruler\" is the actual name of the person referred to, not a substitute for it."
     },
     {
         "quizType": "Parts of Speech",
@@ -285,7 +285,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"intelligent\" expresses a quality or characteristic of the noun \"minister\", making it an adjective."
+        "explanation": "\"Adjective\" is correct because \"intelligent\" expresses a quality or characteristic of the noun \"minister\". <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"intelligent\" tells us what kind of minister he was; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"intelligent\" qualifies the noun \"minister\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"intelligent\" describes the minister and carries no action."
     },
     {
         "quizType": "Parts of Speech",
@@ -294,7 +294,7 @@
         "difficultyLevel": "EASY",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"ancient\" modifies the noun \"country\" by describing its historical age, functioning as an adjective."
+        "explanation": "\"Adjective\" is correct because \"ancient\" modifies the noun \"country\" by describing its historical age. <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"ancient\" tells us the age of the country; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"ancient\" qualifies the noun \"country\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"ancient\" describes the country and performs no action."
     },
     {
         "quizType": "Parts of Speech",
@@ -303,7 +303,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "Adjective",
         "class": ["Diploma"],
-        "explanation": "The word \"definite\" describes and modifies the noun \"aim\", indicating that it is fixed or specific, making it an adjective."
+        "explanation": "\"Adjective\" is correct because \"definite\" modifies the noun \"aim\" by indicating that it is fixed or specific. <br>\"Noun\" is incorrect because a noun names a person, place, or thing, while \"definite\" tells us what kind of aim it is; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, but \"definite\" qualifies the noun \"aim\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"definite\" describes the noun \"aim\" and carries no action."
     },
     {
         "quizType": "Parts of Speech",
@@ -312,7 +312,7 @@
         "difficultyLevel": "EASY",
         "answer": "Pronoun",
         "class": ["Diploma"],
-        "explanation": "The word \"He\" is used in place of a noun to refer to a person, functioning as a personal pronoun and the subject of the clause."
+        "explanation": "\"Pronoun\" is correct because \"He\" stands in place of a noun to refer to a person, functioning as a personal pronoun and the subject of the clause. <br>\"Noun\" is incorrect because a noun is the actual name of a person, place, or thing, while \"He\" only replaces such a name; <br>\"Adjective\" is incorrect because an adjective qualifies a noun or pronoun, but \"He\" is not a descriptive word; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"He\" is the subject performing the linking verb \"is\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -321,7 +321,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "The word \"Man\" is a noun used here in a general sense to refer to human beings or mankind as the subject of the sentence."
+        "explanation": "\"Noun\" is correct because \"Man\" is used here in a general sense to refer to human beings or mankind, and it acts as the subject of the sentence. <br>\"Pronoun\" is incorrect because a pronoun replaces a specific noun, while \"Man\" names the group itself rather than substituting for a name; <br>\"Adjective\" is incorrect because an adjective qualifies a noun, but \"Man\" is the subject noun being described by \"best\"; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"Man\" names the creation being discussed and performs the linking verb \"is\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -330,7 +330,7 @@
         "difficultyLevel": "MEDIUM",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "\"Success\" is an abstract noun that functions as the object of the preposition \"to\"."
+        "explanation": "\"Noun\" is correct because \"success\" is an abstract noun naming an idea and functioning as the object of the preposition \"to\". <br>\"Adjective\" is incorrect because an adjective qualifies a noun, but \"success\" is the thing that the key leads to, not a descriptive word; <br>\"Verb\" is incorrect because a verb expresses action or state, while \"success\" names a concept rather than an action; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, whereas \"success\" is a noun serving as the object of a preposition."
     },
     {
         "quizType": "Parts of Speech",
@@ -339,7 +339,7 @@
         "difficultyLevel": "EASY",
         "answer": "Conjunction",
         "class": ["Diploma"],
-        "explanation": "The word \"and\" connects elements of equal grammatical rank (\"the rivers\" and \"the forests\"), functioning as a coordinating conjunction."
+        "explanation": "\"Conjunction\" is correct because \"and\" joins words of equal grammatical rank, linking \"the rivers\" and \"the forests\" in the list. <br>\"Preposition\" is incorrect because a preposition connects a noun or pronoun to another word to show a relationship, while \"and\" merely joins equal items; <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, but \"and\" does not stand in for any noun; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, whereas \"and\" connects the items in the series instead of modifying anything."
     },
     {
         "quizType": "Parts of Speech",
@@ -348,7 +348,7 @@
         "difficultyLevel": "EASY",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "\"Bangladesh\" is a proper noun naming a specific country and functions as the subject of the sentence."
+        "explanation": "\"Noun\" is correct because \"Bangladesh\" is a proper noun naming a specific country and functioning as the subject of the sentence. <br>\"Pronoun\" is incorrect because a pronoun replaces a noun, but \"Bangladesh\" is the actual name of the country, not a substitute for it; <br>\"Adjective\" is incorrect because an adjective qualifies a noun, while \"Bangladesh\" is the subject noun being described as a land of natural beauty; <br>\"Verb\" is incorrect because a verb expresses action or state, whereas \"Bangladesh\" names a place and performs the linking verb \"is\"."
     },
     {
         "quizType": "Parts of Speech",
@@ -357,6 +357,6 @@
         "difficultyLevel": "MEDIUM",
         "answer": "Noun",
         "class": ["Diploma"],
-        "explanation": "Because it is preceded by the indefinite article \"a\", the word \"beauty\" is used as a countable noun meaning a beautiful person."
+        "explanation": "\"Noun\" is correct because \"beauty\" is preceded by the indefinite article \"a\" and is used here as a countable noun meaning a beautiful person. <br>\"Adjective\" is incorrect because an adjective qualifies a noun, while \"beauty\" is the noun that the article \"a\" picks out in this sentence; <br>\"Verb\" is incorrect because a verb expresses action or state, but \"beauty\" names a person rather than an action; <br>\"Adverb\" is incorrect because an adverb modifies a verb, adjective, or another adverb, whereas \"beauty\" names the thing referred to in the sentence."
     }
 ]
