@@ -1,0 +1,200 @@
+[
+    {
+        "quizType": "Auxiliary Verb",
+        "questionText": "\"You d̷o̷ look nice today\". Here \"do\" is used for -",
+        "options": ["praise", "reporting expression", "emotion", "emphasis"],
+        "difficultyLevel": "HARD",
+        "answer": "emphasis",
+        "class": ["Diploma"],
+        "explanation": "In this sentence, the auxiliary verb 'do' is placed before the main verb 'look' to add emphasis (জোর প্রদান করা) to the statement. <br>'Praise' is incorrect because while the overall sentence is a compliment, the specific grammatical function of 'do' here is emphasis; <br>'reporting expression' is incorrect as it refers to speech-introducing verbs like 'say' or 'tell'; <br>'emotion' is incorrect because 'do' is a structural auxiliary helper, not a direct word of feeling."
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "This house belongs _____ Mr. Jasim.",
+        "options": ["to", "with", "for", "at"],
+        "difficultyLevel": "EASY",
+        "answer": "to",
+        "class": ["Diploma"],
+        "explanation": "\"Belongs to\" means to be the property of — অধিকার বা মালিকানা বোঝাতে \"belong\"-এর পর \"to\" ব্যবহৃত হয়। <br>\"With\" দ্বারা সাথে বোঝায়; <br>\"for\" দ্বারা জন্য বোঝায়; <br>\"at\" নির্দিষ্ট স্থান বা সময় নির্দেশ করে।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "The man is blind _____ one eye.",
+        "options": ["of", "to", "with", "for"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "of",
+        "class": ["Diploma"],
+        "explanation": "চোখে অন্ধ হওয়া বা দৃষ্টিভঙ্গির অভাব নির্দেশ করতে \"blind of\" ব্যবহৃত হয় (যেমন: blind of one eye)। <br>\"Blind to\" দ্বারা কারও দোষ-ত্রুটির প্রতি অন্ধ বা উদাসীন থাকা বোঝায়; <br>\"with\" এবং \"for\" এখানে প্রীতি বা কারণসূচক যা এই বাক্যে অনুপযুক্ত।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "He is blind _____ his own fault.",
+        "options": ["to", "of", "in", "with"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "to",
+        "class": ["Diploma"],
+        "explanation": "কারও নিজের বা অন্যের দোষের প্রতি অন্ধ বা উদাসীন হওয়া বোঝাতে \"blind to\" ব্যবহৃত হয়। <br>\"Blind of\" দিয়ে শারীরিক অক্ষমতা বা এক চোখে অন্ধত্ব বোঝায়; <br>\"in\" এবং \"with\" এখানে নির্দিষ্ট ব্যাকরণগত অর্থ প্রকাশ করে না।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "The train has arrived _____ the station in time.",
+        "options": ["at", "in", "on", "to"],
+        "difficultyLevel": "EASY",
+        "answer": "at",
+        "class": ["Diploma"],
+        "explanation": "নির্দিষ্ট বা ছোট কোনো স্থানে পৌঁছানো বোঝাতে \"arrive at\" ব্যবহৃত হয়। তাই স্টেশনের ক্ষেত্রে \"at\" সঠিক। <br>\"In\" সাধারণত বড় শহর বা দেশের ক্ষেত্রে ব্যবহৃত হয়; <br>\"on\" কোনো কিছুর উপরিভাগ বোঝায়; <br>\"to\" গন্তব্য বা দিক নির্দেশ করে, পৌঁছানো বোঝাতে নয়।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "He is angry _____ me for speaking against him.",
+        "options": ["with", "at", "to", "for"],
+        "difficultyLevel": "EASY",
+        "answer": "with",
+        "class": ["Diploma"],
+        "explanation": "কোনো ব্যক্তির ওপর রাগান্বিত হওয়া বোঝাতে \"angry with\" ব্যবহৃত হয় (যেমন: angry with me)। <br>\"Angry at\" কোনো বিষয়, আচরণ বা বস্তুর ওপর রাগ করা বোঝায়; <br>\"to\" এবং \"for\" ব্যক্তি নির্দেশক Preposition হিসেবে ব্যবহৃত হয় না।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "I was admitted _____ the room.",
+        "options": ["into", "to", "in", "at"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "into",
+        "class": ["Diploma"],
+        "explanation": "\"Into\" বাইরে থেকে ভেতরে প্রবেশের অধিকার বা গতি বোঝায়, তাই \"admitted into the room\" সঠিক। <br>\"To\" শিক্ষাপ্রতিষ্ঠানে ভর্তি হওয়া নির্দেশ করে; <br>\"in\" ভেতরে অবস্থান নির্দেশ করে; <br>\"at\" নির্দিষ্ট স্থান বোঝায়।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Karim aimed his gun _____ the dove.",
+        "options": ["at", "on", "to", "against"],
+        "difficultyLevel": "EASY",
+        "answer": "at",
+        "class": ["Diploma"],
+        "explanation": "কোনো লক্ষ্যবস্তুর দিকে তাক করা বোঝাতে \"aim at\" ব্যবহৃত হয়। <br>\"On\" উপরিভাগে স্পর্শ থাকা বোঝায়; <br>\"to\" দিক নির্দেশ করে; <br>\"against\" বিরুদ্ধে বা বিপরীতে বোঝায়।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Everybody is afraid _____ snakes.",
+        "options": ["of", "from", "with", "at"],
+        "difficultyLevel": "EASY",
+        "answer": "of",
+        "class": ["Diploma"],
+        "explanation": "কোনো কিছুকে ভয় পাওয়া বোঝাতে \"afraid\"-এর পর উপযুক্ত Preposition হিসেবে \"of\" বসে। <br>\"From\" উৎস বা হতে বোঝায়; <br>\"with\" সাথে বোঝায়; <br>\"at\" নির্দিষ্ট বিন্দু বা স্থান নির্দেশ করে।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Faiaz is admitted _____ Dhaka College.",
+        "options": ["to", "in", "into", "at"],
+        "difficultyLevel": "EASY",
+        "answer": "to",
+        "class": ["Diploma"],
+        "explanation": "কোনো শিক্ষাপ্রতিষ্ঠান বা সংস্থায় ভর্তি হওয়া বোঝাতে \"admitted to\" ব্যবহৃত হয়। <br>\"In\" সাধারণ অবস্থান প্রকাশ করে; <br>\"into\" রুম বা কক্ষে প্রবেশ নির্দেশ করে; <br>\"at\" নির্দিষ্ট ছোট স্থান বা বিন্দু বোঝায়।"
+    },
+    {
+        "quizType": "PREPOSITIONS",
+        "questionText": "Your conduct admits _____ no excuse.",
+        "options": ["of", "to", "for", "in"],
+        "difficultyLevel": "HARD",
+        "answer": "of",
+        "class": ["Diploma"],
+        "explanation": "\"Admit of\" একটি উপযুক্ত Phrasal Verb যার অর্থ অবকাশ রাখা বা সুযোগ দেওয়া (allow of / scope for)। তাই \"admits of no excuse\" অর্থ অজুহাতের অবকাশ রাখে না। <br>\"To\", \"for\", এবং \"in\" এখানে এই অর্থে ব্যবহৃৎ হয় না।"
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "___ the members were present there.",
+        "options": ["All", "Which", "Ugly", "Much"],
+        "difficultyLevel": "EASY",
+        "answer": "All",
+        "class": ["Diploma"],
+        "explanation": "\"All\" is used with plural countable nouns like \"members\" to denote the entire group. <br>\"Which\" is an interrogative/relative pronoun and does not fit grammatically; <br>\"Ugly\" is an adjective modifying appearance and makes no logical sense here; <br>\"Much\" is used with uncountable nouns, not countable nouns."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "___ people came to the meeting.",
+        "options": ["Many", "Which", "Ugly", "Much"],
+        "difficultyLevel": "EASY",
+        "answer": "Many",
+        "class": ["Diploma"],
+        "explanation": "\"Many\" is used with plural countable nouns like \"people\" to indicate a large quantity. <br>\"Which\" is a relative/interrogative pronoun and is grammatically incorrect here; <br>\"Ugly\" describes appearance and is contextually illogical; <br>\"Much\" is only used with uncountable nouns."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "They have ___ goats.",
+        "options": ["three", "much", "ugly", "which"],
+        "difficultyLevel": "EASY",
+        "answer": "three",
+        "class": ["Diploma"],
+        "explanation": "\"Three\" is a numeral adjective specifying the count of the plural noun \"goats\". <br>\"Much\" is used with uncountable nouns; <br>\"Ugly\" requires an article like \"an\" before singular nouns or does not fit naturally without an article; <br>\"Which\" is grammatically incorrect in this declarative sentence."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Hasan is a ___ boy.",
+        "options": ["meritorious", "three", "which", "ugly"],
+        "difficultyLevel": "EASY",
+        "answer": "meritorious",
+        "class": ["Diploma"],
+        "explanation": "\"Meritorious\" is an adjective describing a positive quality of the singular noun \"boy\" after the article \"a\". <br>\"Three\" cannot follow the singular article \"a\"; <br>\"Which\" is a relative or interrogative word and does not fit; <br>\"Ugly\" starts with a vowel sound and would require the article \"an\" instead of \"a\"."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "I need ___ money.",
+        "options": ["some", "three", "ugly", "which"],
+        "difficultyLevel": "EASY",
+        "answer": "some",
+        "class": ["Diploma"],
+        "explanation": "\"Some\" is a determiner used with uncountable nouns like \"money\" to indicate an unspecified quantity. <br>\"Three\" is used only with countable nouns; <br>\"Ugly\" describes physical appearance and is illogical here; <br>\"Which\" is grammatically invalid in this declarative context."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "There is ___ water in the pot.",
+        "options": ["no", "three", "ugly", "which"],
+        "difficultyLevel": "EASY",
+        "answer": "no",
+        "class": ["Diploma"],
+        "explanation": "\"No\" is a negative determiner used before nouns like \"water\" to denote absence. <br>\"Three\" requires plural countable nouns, whereas \"water\" is uncountable; <br>\"Ugly\" describes appearance and does not logically apply to water; <br>\"Which\" cannot be used as a determiner in this declarative sentence structure."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Babies need ___ milk.",
+        "options": ["some", "three", "ugly", "which"],
+        "difficultyLevel": "EASY",
+        "answer": "some",
+        "class": ["Diploma"],
+        "explanation": "\"Some\" is used with uncountable nouns like \"milk\" to indicate an indefinite quantity. <br>\"Three\" modifies countable nouns; <br>\"Ugly\" is an adjective for physical appearance and makes no sense here; <br>\"Which\" is grammatically incorrect in this sentence structure."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"Bangladesh is a peaceful country.\"",
+        "options": ["Bangladesh", "peaceful", "country", "is"],
+        "difficultyLevel": "EASY",
+        "answer": "peaceful",
+        "class": ["Diploma"],
+        "explanation": "\"Peaceful\" is an adjective modifying the noun \"country\" by describing its condition or quality. <br>\"Bangladesh\" and \"country\" are nouns; <br>\"Is\" is a linking verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"Dhaka is a populous city.\"",
+        "options": ["Dhaka", "populous", "city", "is"],
+        "difficultyLevel": "EASY",
+        "answer": "populous",
+        "class": ["Diploma"],
+        "explanation": "\"Populous\" is an adjective describing the noun \"city\". <br>\"Dhaka\" is a proper noun; <br>\"City\" is a common noun; <br>\"Is\" is a linking verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adjective in the sentence: \"The sentence is very easy.\"",
+        "options": ["sentence", "very", "easy", "The"],
+        "difficultyLevel": "EASY",
+        "answer": "easy",
+        "class": ["Diploma"],
+        "explanation": "\"Easy\" is a predicate adjective that describes the subject noun \"sentence\". <br>\"Sentence\" is a noun; <br>\"Very\" is an adverb modifying the adjective \"easy\"; <br>\"The\" is an article."
+    },
+    {
+        "quizType": "Auxiliary Verb",
+        "questionText": "\"You d͟o͟ look nice today\". Here \"do\" is used for -",
+        "options": ["praise", "reporting expression", "emotion", "emphasis"],
+        "difficultyLevel": "HARD",
+        "answer": "emphasis",
+        "class": ["Diploma"],
+        "explanation": "In an affirmative sentence, using the auxiliary verb \"do\" before a main verb is a grammatical structure used for emphasis — বাক্যে বিশেষ জোর বা গুরুত্ব প্রদান করার জন্য \"do\" ব্যবহৃত হয়। <br>\"Praise\" (প্রশংসা) বাক্যের উদ্দেশ্য হতে পারে, কিন্তু grammatical function হিসেবে \"do\" এখানে জোর দিতে ব্যবহৃত হয়েছে; <br>\"reporting expression\" ব্যবহৃত হয় উক্তি প্রকাশের ক্ষেত্রে (যেমন: say, tell); <br>\"emotion\" বলতে আবেগ প্রকাশ করা বোঝায়, যা সুনির্দিষ্টভাবে \"do\" এর ব্যবহার নয়।"
+    }
+]

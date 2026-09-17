@@ -6,6 +6,15 @@ import { quizTypes, quizClasses, bulkQuizQuestionSchema } from "../schemas/quiz.
 
 dotenv.config({ path: join(import.meta.dirname, "..", ".env") });
 
+// const MODEL = "gemini-3.8-flash";
+const MODEL = "gemini-3.6-flash";
+// const MODEL = "gemini-3.5-flash";
+
+const QUESTIONS_PER_BATCH = 10;
+const MAX_JSON_RETRIES = 0;
+const MAX_QUOTA_RETRIES = 3;
+const RETRY_MAX_WAIT_MS = 60 * 1000;
+
 const PROMPT = `
 ROLE:
 You are a highly accurate educational quiz content enrichment agent.
@@ -47,6 +56,8 @@ EXPLANATION RULES:
 6. Do not add, remove, or modify the provided options.
 7. If the input question contains an obvious, unambiguous typo (e.g. OCR artifact), you may fix only that typo, but never change the meaning, the answer, or the options for the intended text.
 8. You can add a class only if a question doesn't have it.
+**9. You must explain why other options are wrong in the explanation.**
+**10. You should use <br> tags to represent the explanations beautifully in the HTML.**
 
 VALIDATION SCHEMA:
 
@@ -91,14 +102,9 @@ EXPECTED OUTPUT FORMAT:
 }]
 `
 
-const MODEL = "gemini-3.6-flash";
-const QUESTIONS_PER_BATCH = 30;
-const MAX_JSON_RETRIES = 0;
-const MAX_QUOTA_RETRIES = 0;
-const RETRY_MAX_WAIT_MS = 60 * 1000;
 
 const SOURCE_PATH = join(import.meta.dirname, "..", "un_processed_json", "quizzes.json");
-const OUTPUT_PATH = join(import.meta.dirname, "..", "jsons", "quiz.json");
+const OUTPUT_PATH = join(import.meta.dirname, "..", "jsons", "quiz3.json");
 
 class DailyQuotaError extends Error {}
 

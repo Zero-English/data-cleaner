@@ -1,0 +1,362 @@
+[
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adverb in the sentence: \"He is a very kind man.\"",
+        "options": ["is", "very", "kind", "man"],
+        "difficultyLevel": "EASY",
+        "answer": "very",
+        "class": ["Diploma"],
+        "explanation": "In this sentence, \"very\" is an adverb of degree that modifies the adjective \"kind\" to indicate how kind the man is."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adverb in the sentence: \"The horse can run fast.\"",
+        "options": ["horse", "can", "run", "fast"],
+        "difficultyLevel": "EASY",
+        "answer": "fast",
+        "class": ["Diploma"],
+        "explanation": "\"Fast\" is an adverb of manner here because it describes how the horse runs, modifying the action verb \"run\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adverb in the sentence: \"The man walks quickly.\"",
+        "options": ["man", "walks", "quickly", "The"],
+        "difficultyLevel": "EASY",
+        "answer": "quickly",
+        "class": ["Diploma"],
+        "explanation": "The word \"quickly\" tells us the manner in which the man walks, modifying the verb \"walks\" as an adverb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "Identify the adverb in the sentence: \"He is very happy.\"",
+        "options": ["He", "is", "very", "happy"],
+        "difficultyLevel": "EASY",
+        "answer": "very",
+        "class": ["Diploma"],
+        "explanation": "\"Very\" functions as an adverb of degree modifying the predicate adjective \"happy\" to emphasize the degree of happiness."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "He was absent in the class _____ he was ill.",
+        "options": ["because", "and", "but", "or"],
+        "difficultyLevel": "EASY",
+        "answer": "because",
+        "class": ["Diploma"],
+        "explanation": "The conjunction \"because\" is used to introduce the reason or cause behind his absence from class."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Be attentive _____ you will succeed.",
+        "options": ["and", "or", "but", "because"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "and",
+        "class": ["Diploma"],
+        "explanation": "\"And\" connects an imperative clause expressing an instruction with the clause indicating its positive outcome."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Anwar is physically weak _____ Karim is healthy.",
+        "options": ["but", "and", "or", "so"],
+        "difficultyLevel": "EASY",
+        "answer": "but",
+        "class": ["Diploma"],
+        "explanation": "The coordinating conjunction \"but\" is used to show a contrast between Anwar being weak and Karim being healthy."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Take care _____ you will fall.",
+        "options": ["or", "and", "but", "so"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "or",
+        "class": ["Diploma"],
+        "explanation": "\"Or\" functions as a conjunction introducing an alternative consequence or warning if the command is not followed."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Tamim _____ I go to school together.",
+        "options": ["and", "but", "or", "so"],
+        "difficultyLevel": "EASY",
+        "answer": "and",
+        "class": ["Diploma"],
+        "explanation": "\"And\" is used to link two subjects (\"Tamim\" and \"I\") to form a compound subject."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Amit is tall, _____ his sister is short.",
+        "options": ["but", "and", "or", "so"],
+        "difficultyLevel": "EASY",
+        "answer": "but",
+        "class": ["Diploma"],
+        "explanation": "\"But\" is the correct conjunction because it highlights the contrast between Amit's height and his sister's height."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "I don't know _____ she will come.",
+        "options": ["if", "and", "but", "or"],
+        "difficultyLevel": "EASY",
+        "answer": "if",
+        "class": ["Diploma"],
+        "explanation": "\"If\" is used as a conjunction introducing an indirect question to express uncertainty about whether an event will occur."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Is the news true _____ false?",
+        "options": ["or", "and", "but", "if"],
+        "difficultyLevel": "EASY",
+        "answer": "or",
+        "class": ["Diploma"],
+        "explanation": "\"Or\" connects two alternative possibilities (\"true\" or \"false\") in a question."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "They are sad _____ hopeful.",
+        "options": ["but", "and", "or", "if"],
+        "difficultyLevel": "EASY",
+        "answer": "but",
+        "class": ["Diploma"],
+        "explanation": "\"But\" is used to express opposition or contrast between two different emotional states: being sad yet hopeful."
+    },
+    {
+        "quizType": "Fill in the blanks",
+        "questionText": "Sabina _____ Samira are two friends.",
+        "options": ["and", "but", "or", "so"],
+        "difficultyLevel": "EASY",
+        "answer": "and",
+        "class": ["Diploma"],
+        "explanation": "\"And\" joins the two proper nouns (\"Sabina\" and \"Samira\") together to complete the plural subject."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Honesty is the best policy.\", what part of speech is the word \"Honesty\"?",
+        "options": ["Noun", "Adjective", "Adverb", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "\"Honesty\" is an abstract noun representing a quality or virtue, and it serves as the subject of the sentence."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He walks slowly.\", what part of speech is the word \"slowly\"?",
+        "options": ["Adverb", "Adjective", "Verb", "Noun"],
+        "difficultyLevel": "EASY",
+        "answer": "Adverb",
+        "class": ["Diploma"],
+        "explanation": "\"Slowly\" is an adverb of manner because it describes how the action of the verb \"walks\" is carried out."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"We write with pens.\", what part of speech is the word \"with\"?",
+        "options": ["Preposition", "Conjunction", "Adverb", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Preposition",
+        "class": ["Diploma"],
+        "explanation": "\"With\" is a preposition showing the instrument or tool used to perform the action of writing."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He has three pens.\", what part of speech is the word \"three\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Pronoun"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "\"Three\" is a numeral adjective specifying the quantity of the noun \"pens\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Iron is hard.\", what part of speech is the word \"Iron\"?",
+        "options": ["Noun", "Adjective", "Verb", "Pronoun"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "\"Iron\" is a material noun naming a physical substance, acting as the subject of the sentence."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"The cow is a useful animal.\", what part of speech is the word \"useful\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "\"Useful\" is an adjective describing the quality of the noun \"animal\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He is very poor.\", what part of speech is the word \"very\"?",
+        "options": ["Adverb", "Adjective", "Preposition", "Verb"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Adverb",
+        "class": ["Diploma"],
+        "explanation": "The word \"very\" modifies the adjective \"poor\" by indicating the degree or intensity, making it an adverb of degree."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Dhaka is a big city.\", what part of speech is the word \"big\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Pronoun"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"big\" describes the size of the noun \"city\", so it functions as an adjective."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He is happy.\", what part of speech is the word \"happy\"?",
+        "options": ["Adjective", "Verb", "Adverb", "Noun"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"happy\" is a predicate adjective that follows the linking verb \"is\" and describes the subject pronoun \"He\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"I have a blue pencil.\", what part of speech is the word \"blue\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Preposition"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"blue\" describes the color of the noun \"pencil\", qualifying it as an adjective."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Milk is white.\", what part of speech is the word \"Milk\"?",
+        "options": ["Noun", "Pronoun", "Adjective", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "\"Milk\" is a material noun naming a substance and serves as the subject of the sentence."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"The cat is fond of milk.\", what part of speech is the word \"of\"?",
+        "options": ["Preposition", "Conjunction", "Verb", "Adjective"],
+        "difficultyLevel": "EASY",
+        "answer": "Preposition",
+        "class": ["Diploma"],
+        "explanation": "The word \"of\" is a preposition connecting the adjective \"fond\" to its object \"milk\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Kajol writes a letter.\", what part of speech is the word \"writes\"?",
+        "options": ["Verb", "Noun", "Adjective", "Adverb"],
+        "difficultyLevel": "EASY",
+        "answer": "Verb",
+        "class": ["Diploma"],
+        "explanation": "The word \"writes\" indicates an action performed by the subject \"Kajol\", functioning as the principal verb."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"It has brought about a revolutionary change in our life\", what part of speech is the word \"revolutionary\"?",
+        "options": ["Adjective", "Noun", "Verb", "Adverb"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"revolutionary\" modifies the noun \"change\" by describing its nature, so it is an adjective."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"It has now become an essential part of modern life\", what part of speech is the word \"now\"?",
+        "options": ["Adverb", "Noun", "Verb", "Adjective"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Adverb",
+        "class": ["Diploma"],
+        "explanation": "The word \"now\" is an adverb of time that modifies the verb phrase \"has become\" by indicating when the action occurred."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Computer is a fairly recent invention\", what part of speech is the word \"invention\"?",
+        "options": ["Noun", "Verb", "Adjective", "Adverb"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "Preceded by the article \"a\" and the adjective \"recent\", the word \"invention\" names a created object and functions as a noun."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He was also an efficient ruler\", what part of speech is the word \"ruler\"?",
+        "options": ["Noun", "Adjective", "Verb", "Pronoun"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "\"Ruler\" is a common noun denoting a person who governs, qualified by the adjective \"efficient\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He was an intelligent minister\", what part of speech is the word \"intelligent\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"intelligent\" expresses a quality or characteristic of the noun \"minister\", making it an adjective."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Iran is an ancient country\", what part of speech is the word \"ancient\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"ancient\" modifies the noun \"country\" by describing its historical age, functioning as an adjective."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Without a definite aim he cannot reach the pinnacle of glory in life\", what part of speech is the word \"definite\"?",
+        "options": ["Adjective", "Noun", "Adverb", "Verb"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Adjective",
+        "class": ["Diploma"],
+        "explanation": "The word \"definite\" describes and modifies the noun \"aim\", indicating that it is fixed or specific, making it an adjective."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"He is a rational being\", what part of speech is the word \"He\"?",
+        "options": ["Pronoun", "Noun", "Adjective", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Pronoun",
+        "class": ["Diploma"],
+        "explanation": "The word \"He\" is used in place of a noun to refer to a person, functioning as a personal pronoun and the subject of the clause."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Man is the best creation of Allah\", what part of speech is the word \"Man\"?",
+        "options": ["Noun", "Pronoun", "Adjective", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "The word \"Man\" is a noun used here in a general sense to refer to human beings or mankind as the subject of the sentence."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Good health is the key to success\", what part of speech is the word \"success\"?",
+        "options": ["Noun", "Adjective", "Verb", "Adverb"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "\"Success\" is an abstract noun that functions as the object of the preposition \"to\"."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"The land, the rivers and the forests are the sources of this beauty\", what part of speech is the word \"and\"?",
+        "options": ["Conjunction", "Preposition", "Pronoun", "Adverb"],
+        "difficultyLevel": "EASY",
+        "answer": "Conjunction",
+        "class": ["Diploma"],
+        "explanation": "The word \"and\" connects elements of equal grammatical rank (\"the rivers\" and \"the forests\"), functioning as a coordinating conjunction."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Bangladesh is a land of natural beauty\", what part of speech is the word \"Bangladesh\"?",
+        "options": ["Noun", "Pronoun", "Adjective", "Verb"],
+        "difficultyLevel": "EASY",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "\"Bangladesh\" is a proper noun naming a specific country and functions as the subject of the sentence."
+    },
+    {
+        "quizType": "Parts of Speech",
+        "questionText": "In the sentence \"Helen was a beauty\", what part of speech is the word \"beauty\"?",
+        "options": ["Noun", "Adjective", "Verb", "Adverb"],
+        "difficultyLevel": "MEDIUM",
+        "answer": "Noun",
+        "class": ["Diploma"],
+        "explanation": "Because it is preceded by the indefinite article \"a\", the word \"beauty\" is used as a countable noun meaning a beautiful person."
+    }
+]
