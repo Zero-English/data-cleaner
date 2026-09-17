@@ -58,4 +58,5 @@ export const bulkQuizQuestionSchema = z.object({
   difficultyLevel: difficultyLevelEnumSchema,
   answer: z.string().trim().min(1, "Answer is required"),
   class: z.array(quizClassEnumSchema).default([]),
+  explanation: z.string().trim().min(1, "Explanation is required")
 });
